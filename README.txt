@@ -1,3 +1,7 @@
+#Neural Nets
+
+An implementation of artificial neural networks for classification and regression
+
 Assignment written in Eclipse for Java, Version: 2019-12 (4.14.0)
 
 The program for Intro to Machine Learning Programming Assignment 5 can be run as follows:
