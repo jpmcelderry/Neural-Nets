@@ -1,0 +1,60 @@
+------ZERO LAYER RESULTS-------
+PREDICTED: D4, ACTUAL: D4
+PREDICTED: D4, ACTUAL: D4
+PREDICTED: D4, ACTUAL: D4
+PREDICTED: D3, ACTUAL: D3
+PREDICTED: D3, ACTUAL: D3
+PREDICTED: D2, ACTUAL: D2
+PREDICTED: D2, ACTUAL: D2
+PREDICTED: D1, ACTUAL: D1
+PREDICTED: D1, ACTUAL: D1
+------ONE LAYER RESULTS-------
+PREDICTED: D4, ACTUAL: D4
+PREDICTED: D4, ACTUAL: D4
+PREDICTED: D4, ACTUAL: D4
+PREDICTED: D3, ACTUAL: D3
+PREDICTED: D3, ACTUAL: D3
+PREDICTED: D2, ACTUAL: D2
+PREDICTED: D2, ACTUAL: D2
+PREDICTED: D1, ACTUAL: D1
+PREDICTED: D1, ACTUAL: D1
+------TWO LAYER RESULTS-------
+PREDICTED: D4, ACTUAL: D4
+PREDICTED: D4, ACTUAL: D4
+PREDICTED: D4, ACTUAL: D4
+PREDICTED: D3, ACTUAL: D3
+PREDICTED: D3, ACTUAL: D3
+PREDICTED: D2, ACTUAL: D2
+PREDICTED: D2, ACTUAL: D2
+PREDICTED: D1, ACTUAL: D1
+PREDICTED: D1, ACTUAL: D1
+--------------HOLD OUT SET: 1---------------
+Zero Hidden Layers Error %: 0.0
+One Hidden Layer Error %: 0.0
+Two Hidden Layers Error %: 0.0
+
+--------------HOLD OUT SET: 2---------------
+Zero Hidden Layers Error %: 0.0
+One Hidden Layer Error %: 0.0
+Two Hidden Layers Error %: 0.0
+
+--------------HOLD OUT SET: 3---------------
+Zero Hidden Layers Error %: 0.0
+One Hidden Layer Error %: 0.0
+Two Hidden Layers Error %: 0.0
+
+--------------HOLD OUT SET: 4---------------
+Zero Hidden Layers Error %: 0.0
+One Hidden Layer Error %: 0.0
+Two Hidden Layers Error %: 0.0
+
+--------------HOLD OUT SET: 5---------------
+Zero Hidden Layers Error %: 0.0
+One Hidden Layer Error %: 0.0
+Two Hidden Layers Error %: 0.0
+
+--------------AVERAGE PERFORMANCE---------------
+Zero Hidden Layer Error %: 0.0
+One Hidden Layer Error %: 0.0
+Two Hidden Layer Error %: 0.0
+
